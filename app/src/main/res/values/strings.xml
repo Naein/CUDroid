@@ -2,12 +2,14 @@
 <resources>
 
     <string name="app_name">CUDroid</string>
-    <string name="title_section1">Section 1</string>
-    <string name="title_section2">Section 2</string>
-    <string name="title_section3">Section 3</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_News">Novedades</string>
+    <string name="title_GM">"  Director"</string>
+    <string name="title_Player">"  Jugador"</string>
+    <string name="title_VIP">"  VIP"</string>
+    <string name="title_Forum">"  Foro"</string>
+    <string name="navigation_drawer_open">Opciones</string>
+    <string name="navigation_drawer_close">Comunidad Umbria para Android</string>
+    <string name="action_settings">Configuración</string>
     <string name="action_example">Example action</string>
-    <string name="action_settings">Settings</string>
 
 </resources>
