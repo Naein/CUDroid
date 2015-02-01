@@ -3,7 +3,8 @@
     <string name="CU_URL">http://www.comunidadumbria.com/</string>
     <string name="CU_URL_NOVEDADES">http://www.comunidadumbria.com/usuario/novedades</string>
 
-    <string name="CU_TAG_LOG_USER">http://www.comunidadumbria.com/</string>
-    <string name="CU_TAG_LOG_PASSWORD">http://www.comunidadumbria.com/usuario/novedades</string>
+    <string name="CU_TAG_LOGIN_TAG">"div id=\"login\""</string>
+    <string name="CU_TAG_LOGIN_USER">usuario</string>
+    <string name="CU_TAG_LOGIN_PASSWORD">password</string>
 
 </resources>
