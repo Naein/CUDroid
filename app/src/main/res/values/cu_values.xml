@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CU_URL">http://www.comunidadumbria.com/</string>
+    <string name="CU_URL_NOVEDADES">http://www.comunidadumbria.com/usuario/novedades</string>
+
+    <string name="CU_TAG_LOG_USER">http://www.comunidadumbria.com/</string>
+    <string name="CU_TAG_LOG_PASSWORD">http://www.comunidadumbria.com/usuario/novedades</string>
+
+</resources>

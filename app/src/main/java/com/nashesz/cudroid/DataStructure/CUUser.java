@@ -3,6 +3,6 @@ package com.nashesz.cudroid.DataStructure;
 /**
  * Created by Dani on 31/01/2015.
  */
-public class User {
+public class CUUser {
     private String _name;
 }

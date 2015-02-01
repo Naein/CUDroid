@@ -8,6 +8,7 @@ import java.util.List;
  */
 public class CUContainer {
     protected int __level__;
+    protected int __checked__;
     protected int _name;
     protected List<CUContainer> _list;
     
